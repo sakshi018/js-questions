@@ -1,0 +1,31 @@
+button {
+    width: 80px;
+    height: 80px;
+    margin: 2px;
+    color: #212529a3 !important;
+    font-size: 40px !important;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.second, .third {
+    margin: 2px;
+}
+.result {
+    justify-content: center;
+    align-content: center;
+    width: 100px;
+    height: 50px;
+    padding: 6px;
+}
