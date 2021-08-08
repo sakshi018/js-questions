@@ -1,0 +1,15 @@
+.progress-bar-container {
+    width: 200px;
+    height: 20px;
+    background-color: gray;
+    margin: 10px;
+}
+button {
+    margin: 10px;
+}
+
+.bar {
+    background-color:lightcoral;
+    width: 0;
+    height: 100%;
+}
